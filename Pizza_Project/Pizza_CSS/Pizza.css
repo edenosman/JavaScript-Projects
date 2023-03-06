@@ -1,0 +1,58 @@
+#menuBG {
+    width: 600px;
+    height: 710px;
+    margin: 10px auto;
+    background-color: aqua;
+}
+
+#frmMenu {
+    width: 600px;
+    height: 400px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 140px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 30px;
+    margin-top: -15px;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0; margin: 0px auto;
+    width: 400px;
+    height: 300px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 250px;
+    width: 100px;
+    height: 40px;
+    color:blue;
+    
+}
+
+.right {
+    width: 200px;
+    height: 250px;
+    float: right;
+    margin-top: -15px;
+}
+
+.center {
+    margin-top: 50px;
+}
